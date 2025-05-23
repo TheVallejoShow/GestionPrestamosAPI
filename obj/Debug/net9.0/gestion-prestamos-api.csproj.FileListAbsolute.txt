@@ -34,3 +34,4 @@ C:\Users\USUARIO\Desktop\prueba-tecnica-makers\gestion-prestamos-api\obj\Debug\n
 C:\Users\USUARIO\Desktop\prueba-tecnica-makers\gestion-prestamos-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\USUARIO\Desktop\prueba-tecnica-makers\gestion-prestamos-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\USUARIO\Desktop\prueba-tecnica-makers\gestion-prestamos-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USUARIO\Desktop\prueba-tecnica-makers\gestion-prestamos-api\obj\Debug\net9.0\gestion-prestamos-api.sourcelink.json
