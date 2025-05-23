@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gestion-prestamos-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdc5d3aa2614532e2b459f1abf6b619e20b3e643")]
 [assembly: System.Reflection.AssemblyProductAttribute("gestion-prestamos-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gestion-prestamos-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
