@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6Q/vgBNUxPILwmmTHvd5hME+o2chfi2ky5iFNV9dzrs=",
+  "Source": "gestion-prestamos-api",
+  "BasePath": "_content/gestion-prestamos-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
